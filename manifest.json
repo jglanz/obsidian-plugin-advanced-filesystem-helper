@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-advanced-filesystem-helper",
+	"name": "Advanced filesystem helper",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"minAppVersion": "0.9.7",
+	"description": "This is a plugin for creating relative files & directories.",
+	"author": "jglanz",
+	"authorUrl": "https://github.com/jglanz",
+	"isDesktopOnly": true
 }
